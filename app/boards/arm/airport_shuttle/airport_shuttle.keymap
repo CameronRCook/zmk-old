@@ -16,8 +16,8 @@
 		            flavor = "tap-preferred";
 			    bindings = <&mo>, <&kp>;
         };
-  }
-}
+  };
+};
 
 / {
   keymap {
